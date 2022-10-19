@@ -1,0 +1,66 @@
+
+
+.facebook {
+    text-decoration: none;
+    color: black;
+
+}
+
+.facebook:visited {
+    color: brown;
+}
+
+.facebook:hover {
+    text-decoration: none;
+}
+.github {
+    text-decoration: none;
+    color: black;
+
+}
+
+.github:visited {
+    color: brown;
+}
+
+.github:hover {
+    text-decoration: none;
+}
+
+.linkedin {
+    text-decoration: none;
+    color: black;
+}
+
+.linkedin:visited {
+    color: brown;
+}
+
+.linkedin:hover {
+    text-decoration: none;
+}
+.wpp {
+    text-decoration: none;
+    color: black;
+
+}
+
+.wpp:visited {
+    color: brown;
+}
+
+.wpp:hover {
+    text-decoration: none;
+}
+
+.sobre-mim {
+    text-align: center ;
+    color: green;
+    font-size: 30px;
+    
+}
+
+.texto-sobremim {
+    text-align: justify;
+}
+
